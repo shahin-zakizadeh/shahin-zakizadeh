@@ -36,6 +36,9 @@ I'm currently focused on enhancing DeFi protocols and Layer 2 scaling solutions 
 - Security+
 - Certified Ethical Hacker (CEH)
 
+## 🌟 Smart Contract Security Audit Reports
+- 
+
 ## 🌟 Selected Projects
 ### Cryptocurrency Lending Platform
 Developed and audited smart contracts for a decentralized lending platform, ensuring security and scalability.
