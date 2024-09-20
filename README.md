@@ -31,7 +31,7 @@ I'm currently focused on enhancing DeFi protocols and Layer 2 scaling solutions 
 - **Machine Learning & Data Analysis:**
   - Python, Scikit-learn, Pandas, PyTorch
 
-## 🎓 Passed Unofficial Certifications
+## 🎓 Passed Unofficial Certifications (Kahkeshan institute of technology)
 - CompTIA Network+
 - Security+
 - Certified Ethical Hacker (CEH)
