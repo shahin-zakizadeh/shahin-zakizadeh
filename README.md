@@ -36,8 +36,8 @@ I'm currently focused on enhancing DeFi protocols and Layer 2 scaling solutions 
 - Security+
 - Certified Ethical Hacker (CEH)
 
-## 🌟 Smart Contract Security Audit Reports
-- 
+## 🛡️ Smart Contract Security Audit Reports
+- https://github.com/shahin-zakizadeh/Audit-SmartContracts-CrytpoLending.git
 
 ## 🌟 Selected Projects
 ### Cryptocurrency Lending Platform
