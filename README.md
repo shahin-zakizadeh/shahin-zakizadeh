@@ -41,7 +41,14 @@ As a blockchain research assistant at ÉTS' **T-rize.io** **Labs** (FUSSEE lab),
 - Certified Ethical Hacker (CEH)
 
 ## 🛡️ Smart Contract Security Audit Reports
-- https://github.com/shahin-zakizadeh/Audit-SmartContracts-CrytpoLending.git
+- [Smart Contract Audition of Cryptocurrency lending platform](https://github.com/shahin-zakizadeh/Audit-SmartContracts-CrytpoLending.git)
+- Ethernaut Challenges by OpenZeppelin:
+I successfully completed all the challenges in [Ethernaut](https://ethernaut.openzeppelin.com/), a gamified security learning platform developed by OpenZeppelin. The platform provides hands-on experience in identifying and exploiting vulnerabilities in Ethereum smart contracts. Each challenge involved discovering, understanding, and exploiting real-world vulnerabilities, helping to deepen my expertise in smart contract security.
+
+### Key Learnings:
+- Exploited common Ethereum vulnerabilities such as reentrancy, integer overflow, and delegatecall misuse.
+- Gained hands-on experience with Solidity, the Ethereum Virtual Machine (EVM), and low-level smart contract interactions.
+- Enhanced my ability to secure smart contracts by identifying and mitigating security issues.
 
 ## 🌟 Selected Projects
 ### Cryptocurrency Lending Platform @ [MCLB](https://mclb.org/) (Freelancing)
