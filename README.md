@@ -54,7 +54,7 @@ Developed a trading bot leveraging flash loans and MEV strategies for cross-DEX 
 Created an arbitrage bot using smart contracts on the 1inch exchange to capitalize on price discrepancies.
 
 ## 👨‍💻 Professional Experience
-- **Freelancer Blockchain Developer & Security Auditor**
+- **Freelancer Blockchain Developer & Security Auditor at MCLB**
   - Developed and audited secure smart contracts for DeFi protocols on Ethereum and Fantom.
 
 - **Intern at T-RIZE.IO**
