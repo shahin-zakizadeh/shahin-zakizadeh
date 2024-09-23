@@ -7,11 +7,12 @@ Montreal, Canada
 I'm a Blockchain Developer and Smart Contract Security Auditor with over 4 years of experience in designing, testing, and deploying decentralized applications (dApps) and securing smart contracts. Proficient in Node.js, Solidity, and conducting security audits to ensure the reliability and security of decentralized financial platforms.
 
 ## 🔍 Current Focus
-I'm currently focused on enhancing DeFi protocols and Layer 2 scaling solutions while pursuing my Master of IT Engineering (Blockchain) at ÉTS.
+As a blockchain research assistant at ÉTS' **T-rize.io** **Labs** (FUSSEE lab), I'm now working on establishing a framework for Layer 2 scaling solutions.
 
 ## 📝 Blockchain-related Blog Posts and Presentations:
-- **Medium:** [Medium](https://github.com/shahin-zakizadeh)
+- **Medium:** [Medium]([https://github.com/shahin-zakizadeh](https://medium.com/@itmin3))
 - **Presentation:** [Building Trust and Verification for Tokenized Assets with Chainlink](https://www.canva.com/design/DAGEr287Jew/P3No_s7sywuS2lIz9O5zXQ/view?utm_content=DAGEr287Jew&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- **Instagram:** [Instagram](https://www.instagram.com/shahin.zacki)
 ## 📫 How to Reach Me
 - **Email:** [shahin.zackizadeh@gmail.com](mailto:shahin.zackizadeh@gmail.com)
 - **LinkedIn:** [Shahin Zakizadeh](https://www.linkedin.com/in/shahin-zakizadeh/)
