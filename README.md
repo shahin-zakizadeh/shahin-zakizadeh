@@ -44,7 +44,7 @@ As a blockchain research assistant at ÉTS' **T-rize.io** **Labs** (FUSSEE lab),
 - https://github.com/shahin-zakizadeh/Audit-SmartContracts-CrytpoLending.git
 
 ## 🌟 Selected Projects
-### Cryptocurrency Lending Platform [MCLB](https://mclb.org/)
+### Cryptocurrency Lending Platform @ [MCLB](https://mclb.org/) (Freelancing)
 Developed and audited smart contracts for a decentralized lending platform, ensuring security and scalability.
 
 ### Autonomous Trading Bot (Arbitrum Network)
