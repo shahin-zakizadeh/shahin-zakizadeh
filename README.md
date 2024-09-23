@@ -9,6 +9,9 @@ I'm a Blockchain Developer and Smart Contract Security Auditor with over 4 years
 ## 🔍 Current Focus
 I'm currently focused on enhancing DeFi protocols and Layer 2 scaling solutions while pursuing my Master of IT Engineering (Blockchain) at ÉTS.
 
+## 📝 Blockchain-related Blog Posts and Presentations:
+- **Medium:** [Medium](https://github.com/shahin-zakizadeh)
+- **Presentation:** [Building Trust and Verification for Tokenized Assets with Chainlink](https://www.canva.com/design/DAGEr287Jew/P3No_s7sywuS2lIz9O5zXQ/view?utm_content=DAGEr287Jew&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## 📫 How to Reach Me
 - **Email:** [shahin.zackizadeh@gmail.com](mailto:shahin.zackizadeh@gmail.com)
 - **LinkedIn:** [Shahin Zakizadeh](https://www.linkedin.com/in/shahin-zakizadeh/)
