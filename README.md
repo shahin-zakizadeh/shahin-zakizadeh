@@ -42,7 +42,7 @@ As a blockchain research assistant at ÉTS' **T-rize.io** **Labs** (FUSSEE lab),
 
 ## 🛡️ Smart Contract Security Audit Reports
 - [Smart Contract Audition of Cryptocurrency lending platform](https://github.com/shahin-zakizadeh/Audit-SmartContracts-CrytpoLending.git)
-- Ethernaut Challenges by OpenZeppelin:
+- [Ethernaut Challenges by OpenZeppelin](https://ethernaut.openzeppelin.com/):
 I successfully completed all the challenges in [Ethernaut](https://ethernaut.openzeppelin.com/), a gamified security learning platform developed by OpenZeppelin. The platform provides hands-on experience in identifying and exploiting vulnerabilities in Ethereum smart contracts. Each challenge involved discovering, understanding, and exploiting real-world vulnerabilities, helping to deepen my expertise in smart contract security.
 
 ### Key Learnings:
