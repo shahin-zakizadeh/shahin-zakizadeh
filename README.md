@@ -22,7 +22,7 @@ As a blockchain research assistant at ÉTS' **T-rize.io** **Labs** (FUSSEE lab),
 ## 🛠 Core Skills
 - **Blockchain Development & Smart Contract Security:**
   - Solidity, Ethereum, Layer 2 Solutions, Web3, DeFi, Chainlink PoR
-  - Smart contract auditing with  Mythrill, Securify, MythX, Echidna (Fuzzing test), Moch(Hardhat unit testing)
+  - Smart contract auditing with  Mythrill, Securify, MythX, Echidna (Fuzzing test), Mocha (Hardhat unit testing)
   - Extensive unit testing with Hardhat
 
 - **Backend Development & API Integration:**
