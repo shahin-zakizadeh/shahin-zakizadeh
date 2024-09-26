@@ -12,7 +12,7 @@ As a blockchain research assistant at ÉTS' **T-rize.io** **Labs** (FUSSEE lab),
 ## 📝 Blockchain-related Blog Posts and Presentations:
 - **Medium:** [Medium](https://medium.com/@itmin3)
 - **Presentation:** [Building Trust and Verification for Tokenized Assets with Chainlink](https://www.canva.com/design/DAGEr287Jew/P3No_s7sywuS2lIz9O5zXQ/view?utm_content=DAGEr287Jew&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- **Solidity Security Audition Tutorial**[Solidity Security: A Beginner-Friendly Audit Guide](https://github.com/shahin-zakizadeh/Solidity-Security-Audition-Tutorial)
+- **Solidity Security Audition Tutorial:** [Solidity Security: A Beginner-Friendly Audit Guide](https://github.com/shahin-zakizadeh/Solidity-Security-Audition-Tutorial)
 - **Instagram:** [Blockchain IG Contents](https://www.instagram.com/shahin.zacki)
 ## 📫 How to Reach Me
 - **Email:** [shahin.zackizadeh@gmail.com](mailto:shahin.zackizadeh@gmail.com)
