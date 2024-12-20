@@ -65,7 +65,7 @@ Created an arbitrage bot using smart contracts on the 1inch exchange to capitali
 - **Freelancer Blockchain Developer & Security Auditor at MCLB**
   - Developed and audited secure smart contracts for DeFi protocols on Ethereum and Fantom.
 
-- **Blockchain Research Asistant at [T-RIZE.IO Lab](t-rize.io)**
+- **Blockchain R&D at [T-RIZE.IO Lab](t-rize.io)**
   - Real estate tokenization and researched Layer 2 solutions for Ethereum-based dApps.
 
 - **Blockchain Research Assistant at FUSÉE Lab**
